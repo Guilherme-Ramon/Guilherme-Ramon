@@ -19,3 +19,8 @@ Atualmente, estou começando a construir meus projetos e ainda não tenho nenhum
 - JavaScript
 - Bootstrap
 - Python
+- React
+- Git
+- Github
+- PHP
+- Tailwind
