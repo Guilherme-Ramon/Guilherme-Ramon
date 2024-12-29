@@ -40,5 +40,5 @@ Atualmente, estou desenvolvendo uma série de projetos para aperfeiçoar minhas 
 🔗 **Me acompanhe nas redes sociais:**
 
 - [GitHub](https://github.com/Guilherme-Ramon)
-- [LinkedIn](https://www.linkedin.com/in/guilherme-ramon-bb9b41338/)
+- [LinkedIn](https://www.linkedin.com/in/guilherme-ramon)
 - [Instagram](https://www.instagram.com/g_ramon9/)
