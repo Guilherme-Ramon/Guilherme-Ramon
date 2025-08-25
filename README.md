@@ -1,11 +1,5 @@
-# 👋 Olá, eu sou Guilherme Ramon
+# Olá, eu sou Guilherme Ramon
 
-🌟 Desenvolvedor Front-End | Apaixonado por criar soluções digitais elegantes e funcionais  
-🚀 Em constante evolução para me tornar Full-Stack e contribuir com projetos de impacto  
-
----
-
-## 💻 Sobre Mim
 Sou um desenvolvedor Front-End com experiência em diversas tecnologias. Gosto de transformar ideias em produtos digitais, aprender constantemente e compartilhar conhecimento. Meu foco é criar soluções eficientes e modernas que gerem valor real.  
 
 ---
@@ -36,8 +30,7 @@ Sou um desenvolvedor Front-End com experiência em diversas tecnologias. Gosto d
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
-
 ## 🔗 Me acompanhe nas redes sociais
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-Ramon)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramon)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermeramon.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-Ramon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramon) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermeramon.dev/)
+
+
