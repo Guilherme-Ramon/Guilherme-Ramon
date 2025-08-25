@@ -34,3 +34,4 @@ Sou um desenvolvedor Front-End com experiência em diversas tecnologias. Gosto d
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-Ramon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramon) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermeramon.dev/)
 
 
+![Meus commits](assets/github-Guilherme-Ramon-contribution.svg)
