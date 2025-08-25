@@ -1,6 +1,11 @@
-# Olá, eu sou Guilherme Ramon
+# 👋 Olá, eu sou Guilherme Ramon!
 
-Sou um desenvolvedor Front-End com experiência em diversas tecnologias. Gosto de transformar ideias em produtos digitais, aprender constantemente e compartilhar conhecimento. Meu foco é criar soluções eficientes e modernas que gerem valor real.  
+---
+
+## 🔗 Me acompanhe nas redes sociais
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-Ramon) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramon) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermeramon.dev/)
 
 ---
 
@@ -30,8 +35,7 @@ Sou um desenvolvedor Front-End com experiência em diversas tecnologias. Gosto d
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
-## 🔗 Me acompanhe nas redes sociais
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-Ramon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ramon) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermeramon.dev/)
 
-
-![Meus commits](assets/github-Guilherme-Ramon-contribution.svg)
+## 📊 Estatísticas
+![Meus commits](assets/github-Guilherme-Ramon-contribution.svg)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Ramon&show_icons=true&theme=dark)
